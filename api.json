@@ -1,0 +1,25 @@
+{
+  "jogos": [
+    {
+      "id": "9bed",
+      "nome": "Q@E",
+      "anoLancamento": 2022,
+      "desenvolvedora": "Valve",
+      "nota": 1
+    },
+    {
+      "id": "3515",
+      "nome": "aw",
+      "anoLancamento": 2022,
+      "desenvolvedora": "Rare",
+      "nota": 1
+    },
+    {
+      "id": "bf16",
+      "nome": "E",
+      "anoLancamento": null,
+      "desenvolvedora": "Take Two",
+      "nota": 3
+    }
+  ]
+}
